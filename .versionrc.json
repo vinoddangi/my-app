@@ -11,5 +11,6 @@
       {"type": "test", "hidden": true}
     ],
     "commitUrlFormat": "https://github.com/vinoddangi/my-app/commit/{{hash}}",
-    "compareUrlFormat": "https://github.com/vinoddangi/my-app/compare/{{previousTag}}...{{currentTag}}"
+    "compareUrlFormat": "https://github.com/vinoddangi/my-app/compare/{{previousTag}}...{{currentTag}}",
+    "issueUrlFormat ": "https://github.com/vinoddangi/my-app/issues/{{id}}"
   }
