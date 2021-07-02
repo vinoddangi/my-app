@@ -1,5 +1,12 @@
 # Changelog 
  All notable changes to this project will be documented in this file.
+### [0.3.6](https://github.com/vinoddangi/my-app/compare/v0.3.5...v0.3.6) (2021-07-02)
+
+
+### Bug Fixes
+
+* [#1](https://github.com/vinoddangi/my-app/issues/1) repo ([7a6ab95](https://github.com/vinoddangi/my-app/commit/7a6ab95bd4409fbaf266b99155c557a6ee37543e))
+
 ### [0.3.5](https://github.com/vinoddangi/my-app/compare/v0.3.4...v0.3.5) (2021-07-02)
 
 
