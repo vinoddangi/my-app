@@ -10,6 +10,6 @@
       {"type": "perf", "hidden": true},
       {"type": "test", "hidden": true}
     ],
-    "commitUrlFormat": "https://github.com/vinoddangi/my-app/commits/{{hash}}",
+    "commitUrlFormat": "https://github.com/vinoddangi/my-app/commit/{{hash}}",
     "compareUrlFormat": "https://github.com/vinoddangi/my-app/compare/{{previousTag}}...{{currentTag}}"
   }
